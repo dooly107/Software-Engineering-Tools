@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+    <StudentName graduate="false">Sang Hun Kim</StudentName>
+    <StudentID>00258-08690</StudentID>
+    <College>Computer Engineering</College>
+    <Components>
+        <Component name="i7-7700HQ" count="2" />
+        <Component name="i7-7600K" count="4" />
+    </Components>
+</Content>

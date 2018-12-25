@@ -1,0 +1,30 @@
+#! /bin/bash
+
+#---------------------------------------
+# $Author$
+# $Date$
+#---------------------------------------
+
+# Do not modify above this line.
+curdir=$(echo $('pwd'))
+changedir=$(echo $('pwd')"/c-files")
+exec 2> /dev/null
+cd $changedir
+for i in *.c
+do
+    if gcc -Wall -Werror $i
+    then
+        ./a.out > ${i%.c}.out
+        echo "Compiling file ${i%.c}.c... Compilation succeeded."
+    else
+        echo "Compiling file ${i%.c}.c... Error: Compilation failed."
+    fi
+done 
+
+for j in *.out
+do
+    cp $j $changedir $curdir
+    rm $j
+done
+
+exit 0

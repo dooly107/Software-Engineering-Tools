@@ -1,0 +1,9 @@
+#! /bin/bash
+Num_Of_Param=$#
+Param_Values=$@
+let J=$Param_Values/3
+for (( I=J; I >= 0; I--))
+do 
+    let K=$I*3
+    echo ${K}
+done

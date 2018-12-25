@@ -1,0 +1,28 @@
+10
+
+dir
+0
+svn+ssh://ece364sv@ecegrid/home/ecegrid/a/ece364sv/svn/F17/students/ee364c15/Lab08/targetfolder
+svn+ssh://ece364sv@ecegrid/home/ecegrid/a/ece364sv/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7914ca0d-8e31-4bfa-b377-9af0acab132c
+

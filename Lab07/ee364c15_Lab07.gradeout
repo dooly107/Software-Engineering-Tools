@@ -1,0 +1,44 @@
+/home/ecegridfs/a/ee364ta/grading/Lab07/lab/ee364c15
+
+-------------------------------------------------------------------------------------
+FUNCTION              | DESCRIPTION            | COMMENTS                 | POINTS  
+-------------------------------------------------------------------------------------
+Capstone_Addition                                Error running function     0/8.5   
+Capstone_Details                                 Error running function     0/1     
+Capstone_Initializer                             Error running function     0/2     
+Capstone_Membership                              Error running function     0/7     
+Capstone_String                                  Error running function     0/1     
+Capstone_Subtraction                             Error running function     0/7     
+Circuit_Addition        Bad Type                 Passed                     1/1     
+Circuit_Addition        Bad Value                Passed                     1/1     
+Circuit_Addition        Normal Operation 1       Passed                     1.5/1.5 
+Circuit_Addition        Normal Operation 2       Passed                     1.5/1.5 
+Circuit_Combination     C Check                  FAILED                     0/1     
+Circuit_Combination     ID Check                 Passed                     1/1     
+Circuit_Combination     L Check                  FAILED                     0/1     
+Circuit_Combination     R Check                  FAILED                     0/1     
+Circuit_Combination     T Check                  FAILED                     0/1     
+Circuit_GetDetails      Details String           Passed                     1/1     
+Circuit_Initializer     Bad Input                Passed                     1/1     
+Circuit_Initializer     Normal Instance          Passed                     1/1     
+Circuit_Membership      Bad Type                 Passed                     1/1     
+Circuit_Membership      Bad Value                Passed                     1/1     
+Circuit_Membership      Normal Check 1           Passed                     1/1     
+Circuit_Membership      Normal Check 2           Passed                     1/1     
+Circuit_String          String Representation    Passed                     1/1     
+Circuit_Subtraction     Bad Type                 Passed                     0.5/0.5 
+Circuit_Subtraction     Bad Value                Passed                     1/1     
+Circuit_Subtraction     Normal Operation 1       Passed                     1.5/1.5 
+Circuit_Subtraction     Normal Operation 2       Passed                     1.5/1.5 
+Project_Addition                                 Error running function     0/7     
+Project_Details                                  Error running function     0/1     
+Project_Initializer                              Error running function     0/3     
+Project_Membership                               Error running function     0/7     
+Project_String                                   Error running function     0/1     
+Project_Subtraction                              Error running function     0/7     
+Student_Initializer     Bad Level                FAILED                     0/1     
+Student_Initializer     Normal Instance          Error running function     0/1     
+Student_String          String Representation    Error running function     0/1     
+-------------------------------------------------------------------------------------
+
+Total Score = 18.5
